@@ -14,6 +14,8 @@ This repository is the official public home for ModelSpend Community, providing 
 
 ## Availability
 
+See [release and verification policy](RELEASES.md). GitHub-generated source archives are documentation-only and are not installable Core releases.
+
 The Community release is being prepared. Verified installation packages and instructions will be published here when available.
 
 The underlying canonical development repository remains private. This repository does not provide the ModelSpend application source code.
@@ -21,6 +23,11 @@ The underlying canonical development repository remains private. This repository
 ## Licensing
 
 ModelSpend Community is proprietary software distributed at no licence fee under its applicable terms. It is not open-source software. Commercial plugins require separate licences.
+
+## Participation and security
+
+- [Contribution and issue guidance](CONTRIBUTING.md)
+- [Confidential vulnerability reporting](SECURITY.md)
 
 ## Official links
 
